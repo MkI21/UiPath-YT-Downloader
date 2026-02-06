@@ -1,0 +1,13 @@
+﻿{
+  "Name": "JuL - Toi et moi  2025",
+  "Type": "Element",
+  "Id": "Trkk9SZxF0edv1MfVuVKGQ",
+  "Reference": "r-j_L1sacUSrspWQ-9WnVQ/Trkk9SZxF0edv1MfVuVKGQ",
+  "ParentRef": "r-j_L1sacUSrspWQ-9WnVQ/7XnUzHa-UUuEOKiaYmpudg",
+  "Created": "2025-08-22T16:43:18.5077049Z",
+  "Updated": "2025-08-22T16:43:18.5077049Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

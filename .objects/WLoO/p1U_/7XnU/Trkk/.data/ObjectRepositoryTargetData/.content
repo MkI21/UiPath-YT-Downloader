@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6UwWSWQMNkOewXXe7v2uIQ" Reference="r-j_L1sacUSrspWQ-9WnVQ/Trkk9SZxF0edv1MfVuVKGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/results" DesignTimeRectangle="1181, 531, 277, 33" FullSelectorArgument="&lt;webctrl aria-label='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' tag='YT-FORMATTED-STRING' matching:tag='fuzzy' fuzzylevel:tag='0.0' idx='4549' /&gt;" Guid="4481bea6-8329-4f33-aea9-4b55686f05cb" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(61) jultoi et moi - YouTube' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="42a7dfcc7ed8078b2ca5ff4a284fc535.png" xmlns="">0gAgUiTYTbEin0W83_8vhlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

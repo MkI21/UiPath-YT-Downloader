@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TwCU1AonP0GQVfboyyhN8A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/results" CVScreenId="1b09c504-0a69-46a4-b21a-a521841a86f8" DesignTimeRectangle="1181, 531, 277, 33" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aria-label='JuL - Toi et moi // 2025 3 minutes et 22 secondes' tag='YT-FORMATTED-STRING' type='' class='style-scope ytd-video-renderer' aaname='JuL - Toi et moi // 2025' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="7681bed3-aa28-4855-a2af-58e8e30fbf43" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(61) jultoi et moi - YouTube' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d75e70d1bc0e1d91afcc89f6edbda840.png" xmlns="">0I2pEBd200EaATiAEvtOvNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

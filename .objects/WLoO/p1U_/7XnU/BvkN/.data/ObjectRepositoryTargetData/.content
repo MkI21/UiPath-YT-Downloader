@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rCDoXwHgkEanwuNdG9Pibg" Reference="r-j_L1sacUSrspWQ-9WnVQ/BvkNZdWA2EGlvCqjXuARIg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/results" DesignTimeRectangle="1181, 465, 497, 33" FuzzyAccuracy="0.22" FuzzySelectorArgument="&lt;webctrl aria-label='' tag='YT-FORMATTED-STRING' type='' class='style-scope ytd-video-renderer' aaname='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="781977dc-7d65-40af-bb16-e482f4212c32" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='(58) joe dassin et si tu n&amp;apos;existais pas - YouTube' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a290a71d-2182-4125-ab25-764b78fa32e3" DesignTimeRectangle="1181, 531, 277, 33" FuzzyAccuracy="0" Guid="7fbf8a34-e1e3-4f4b-ad78-df66d8ec2619" ImageBase64="" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7bb548defdad8ca27169b47a7745943f.png" xmlns="">0EsQ-dsjgKEqrmbEgEA23Gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
